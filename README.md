@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/bizkonic-wordmark.png" alt="Bizkonic: Diagnose, Service, Keep Printing" width="640"></p>
+<p align="center"><img src="assets/bizkonic-wordmark-navy.svg" alt="Bizkonic: Diagnose, Service, Keep Printing" width="640"></p>
 
 # Bizkonic
 
