@@ -1,0 +1,10 @@
+{
+  "name": "bizkonic-reference-lookup-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone exact-model reference lookup demonstration with fictional data. Not the Bizkonic application.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node test/lookup.test.mjs", "demo": "node sample/demo.mjs" },
+  "license": "UNLICENSED"
+}
